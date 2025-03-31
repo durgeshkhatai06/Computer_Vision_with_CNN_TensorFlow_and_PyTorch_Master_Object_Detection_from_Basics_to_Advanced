@@ -1,0 +1,13 @@
+prefix=E:/Computer_Vision_with_CNN_TensorFlow_and_PyTorch_Master_Object_Detection_from_Basics_to_Advanced/venv/Library
+exec_prefix=E:/Computer_Vision_with_CNN_TensorFlow_and_PyTorch_Master_Object_Detection_from_Basics_to_Advanced/venv/Library
+libdir=E:/Computer_Vision_with_CNN_TensorFlow_and_PyTorch_Master_Object_Detection_from_Basics_to_Advanced/venv/Library/lib
+sharedlibdir=E:/Computer_Vision_with_CNN_TensorFlow_and_PyTorch_Master_Object_Detection_from_Basics_to_Advanced/venv/Library/lib
+includedir=E:/Computer_Vision_with_CNN_TensorFlow_and_PyTorch_Master_Object_Detection_from_Basics_to_Advanced/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
