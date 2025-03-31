@@ -13,3 +13,12 @@ logging.basicConfig(
 
 logger = logging.getLogger("ArithmethicApp")
 
+def add(a,b):
+    result = a+b
+    logger.debug(f"Adding {a} + {b} = {result}")
+    return result
+
+def subtract(a, b):
+    result = a - b
+    logger.debug(f"Subtracting {a} - {b} = {result}")
+    return result
