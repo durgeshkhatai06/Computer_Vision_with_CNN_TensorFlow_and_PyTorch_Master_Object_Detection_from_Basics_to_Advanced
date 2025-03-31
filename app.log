@@ -3,3 +3,13 @@
 2025-03-31 17:22:51-root-WARNING-This is warning message
 2025-03-31 17:22:51-root-ERROR-This is error message
 2025-03-31 17:22:51-root-CRITICAL-This is critical message
+2025-03-31 17:23:16-root-DEBUG-This is a debug message
+2025-03-31 17:23:16-root-INFO-This is a info message
+2025-03-31 17:23:16-root-WARNING-This is warning message
+2025-03-31 17:23:16-root-ERROR-This is error message
+2025-03-31 17:23:16-root-CRITICAL-This is critical message
+2025-03-31 17:25:42-root-DEBUG-This is a debug message
+2025-03-31 17:25:42-root-INFO-This is an info message
+2025-03-31 17:25:42-root-WARNING-This is a warning message
+2025-03-31 17:25:42-root-ERROR-This is an error message
+2025-03-31 17:25:42-root-CRITICAL-This is a critical message
