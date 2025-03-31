@@ -22,3 +22,8 @@ def subtract(a, b):
     result = a - b
     logger.debug(f"Subtracting {a} - {b} = {result}")
     return result
+
+def multiply(a, b):
+    result = a * b
+    logger.debug(f"Multiplying {a} * {b} = {result}")
+    return result
